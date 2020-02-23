@@ -9,10 +9,10 @@ More advanced algorithms can solve harder Binairo puzzles by reducing it to a [B
 Here is a sample puzzle and its solution:
 <div class="row">
   <div class="column">
-    <img align="center" src="/images/binairo_unsolved.png" height="300" />
+    <img src="/images/binairo_unsolved.png" height="300" />
   </div>
   <div class="column">
-    <img align="center" src="/images/binairo_solved.png" height="300" />
+    <img src="/images/binairo_solved.png" height="300" />
   </div>
 </div>
 
