@@ -4,7 +4,7 @@
 
 This is a Python program which automatically solves a [Binairo puzzle](https://www.puzzle-binairo.com/) by only completing cells whose values can be deduced definitely. No backtracking is required to solve any of the puzzles on this website.
 
-More advanced algorithms can solve harder Binairo puzzles by reducing it to a [Boolean satisfiability problem](https://link.springer.com/article/10.1007%2Fs11786-017-0322-4).
+More advanced algorithms can solve harder Binairo puzzles by reducing it to a [Boolean satisfiability problem](https://link.springer.com/content/pdf/10.1007/s11786-017-0322-4.pdf).
 
 Here is a sample puzzle and its solution:
 <p float="left">
