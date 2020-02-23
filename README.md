@@ -7,14 +7,10 @@ This is a Python program which automatically solves a [Binairo puzzle](https://w
 More advanced algorithms can solve harder Binairo puzzles by reducing it to a [Boolean satisfiability problem](https://link.springer.com/article/10.1007%2Fs11786-017-0322-4).
 
 Here is a sample puzzle and its solution:
-<div class="row">
-  <div class="column">
-    <img src="/images/binairo_unsolved.png" height="300" />
-  </div>
-  <div class="column">
-    <img src="/images/binairo_solved.png" height="300" />
-  </div>
-</div>
+<p float="left">
+  <img src="/images/binairo_unsolved.png" height="300" />
+  <img src="/images/binairo_solved.png" height="300" />
+</p>
 
 ## Instructions
 
